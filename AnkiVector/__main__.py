@@ -63,9 +63,20 @@ from AnkiVector.modules.helper_funcs.misc import paginate_modules
 from AnkiVector.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-𝙃𝙚𝙡𝙡𝙤 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢 [ᗩᑎKI ᐯEᑕTOᖇ](t.me/ankivectorUpdates) 🍑
-𝙄'𝙢 𝙖 𝙋𝙤𝙬𝙚𝙧𝙛𝙪𝙡 𝙜𝙧𝙤𝙪𝙥 𝙢𝙖𝙣𝙖𝙜𝙚𝙧 𝙗𝙤𝙩 𝙒𝙞𝙩𝙝 𝘾𝙤𝙤𝙡 𝙈𝙤𝙙𝙪𝙡𝙚𝙨. 𝙈𝙖𝙙𝙚 𝙗𝙮 [TEᗩᗰ ᗩᑎKI ᐯEᑕTOᖇ](t.me/TeamAnkiVector)
-𝙃𝙞𝙩 /help 𝙩𝙤 𝙛𝙞𝙣𝙙 𝙢𝙮 𝙡𝙞𝙨𝙩 𝙤𝙛 𝙖𝙫𝙖𝙞𝙡𝙖𝙗𝙡𝙚 𝙘𝙤𝙢𝙢𝙖𝙣𝙙𝙨 🕹
+Hi,My Name Is Aurora
+
+I'm A Powerful Astronomy Themed Group manager Bot With Cool Modules.
+The Official Group manager In Andromeda Telescopes
+ 
+ TAP (The Aurora Project)
+It Has 2 Versions
+  •[Aurora](https://t.me/AuroraSKbot)This Bot
+  •[Aurora X](https://t.me/Aurora_X_Bot)The Beta Version Of Aurora
+
+Special Thanks For  
+                   •[Park Hyung Sik](https://t.me/Rodolphus_Lestrang
+                   •Damantha Jayasinghe (For Old Repo)
+                   •Friends Forever And Together Forever Teams
  
 """
 
