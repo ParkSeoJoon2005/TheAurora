@@ -92,7 +92,7 @@ def ding(update: Update, context: CallbackContext):
     msg = update.effective_message
 
     start_time = time.time()
-    messageX = msg.reply_text("Dinging...")
+    messageX = msg.reply_text("**Pinging...!**")
     end_time = time.time()
     telegram_ping = str(round((end_time - start_time) * 1000, 3)) + " ms"
     uptime = get_readable_time((time.time() - StartTime))
