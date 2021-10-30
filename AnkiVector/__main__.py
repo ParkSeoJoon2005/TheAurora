@@ -63,20 +63,11 @@ from AnkiVector.modules.helper_funcs.misc import paginate_modules
 from AnkiVector.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hi,My Name Is Aurora
-
-I'm A Powerful Astronomy Themed Group manager Bot With Cool Modules.
-The Official Group manager In Andromeda Telescopes
+ʜʏᴏ[ᴏ](https://telegra.ph/file/5ffa1e00ea56f73173388.jpg),ᴍʏ ɴᴀᴍᴇ ɪꜱ ᴀᴜʀᴏʀᴀ🌠
+ᴀ ᴘᴏᴡᴇʀꜰᴜʟ ᴀꜱᴛʀᴏᴍʏ ᴛʜᴇᴍᴇᴅ ʙᴏᴛ ᴡɪᴛʜ ᴘᴏᴡᴇʀꜰᴜʟ ᴛᴏᴏʟꜱ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴇꜰꜰɪᴄɪᴀɴᴛʟʏ
+ᴏꜰꜰᴄɪᴀʟ ᴍᴀɴᴀɢᴇʀ ᴏꜰ [ᴀɴᴅʀᴏᴍᴇᴅᴀ ᴛᴇʟᴇꜱᴄᴏᴘᴇꜱ](https://t.me/andromeda_Telescopes)
  
- TAP (The Aurora Project)
-It Has 2 Versions
-  •[Aurora](https://t.me/AuroraSKbot)This Bot
-  •[Aurora X](https://t.me/Aurora_X_Bot)The Beta Version Of Aurora
-
-Special Thanks For  
-                   •[Park Hyung Sik](https://t.me/Rodolphus_Lestrang
-                   •Damantha Jayasinghe (For Old Repo)
-                   •Friends Forever And Together Forever Teams
+©The Aurora Project
  
 """
 
