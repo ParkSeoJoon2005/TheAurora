@@ -78,7 +78,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="🛒ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url="https://github.com/parkseojoon2005"),
-        InlineKeyboardButton(text="⚙ ʜᴇʟᴘ", url="http://t.me/AuroraSKBot?start=help"),
+        InlineKeyboardButton(text="⚙ʜᴇʟᴘ", url="http://t.me/AuroraSKBot?start=help"),
     ],
     [
         InlineKeyboardButton(
@@ -782,7 +782,7 @@ def is_chat_allowed(update, context):
         chat_id = update.effective_message.chat_id
         if chat_id in BL_CHATS:
             context.bot.send_message(
-                chat_id=update.message.chat_id, text="Unallowed chat, leaving"
+                chat_id=update.message.chat_id, text="Unallowed chat, leaving...!"
             )
             try:
                 context.bot.leave_chat(chat_id)
@@ -815,7 +815,7 @@ def main():
 
     if SUPPORT_CHAT is not None and isinstance(SUPPORT_CHAT, str):
         try:
-            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}", "I am now online!✨")
+            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}", "I am now online!")
         except Unauthorized:
             LOGGER.warning(
                 "Bot isnt able to send message to support_chat, go and check!"
